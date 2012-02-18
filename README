@@ -5,8 +5,10 @@ usage :
 
   1 : import the jquery on your page ;
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
   2 : import jquery.numTick.js to your page ;
     <script type="text/javascript" src="YOUR_PATH/jquery.numTick.js"></script>
+    
   3 : include this code between the <head></head> tags ;
     <script>
       $('#myNumberDiv').numTick();
