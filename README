@@ -15,6 +15,15 @@ usage :
   4 : settings ;
     <script>
       $('#myNumberDiv').numTick({
-        width : 
+        numbersUrl  : YOUR_NUMBER_SPRITE's_URL // default : 'http://onur.ws/numTic/img/sprite.png'
+        width       : WIDTH_OF_YOUR_DIGIT, // default : 30
+        height      : HEIGHT_OF_YOUR_DIGIT, // default : 30
+        speed       : MILISECONDS, // default : 1000
+        border      : BORDER_INFO, // default : '1px solid #ccc' CAN BE 'none'
       });
     <script>
+    
+  5 : add this between <body> and </body> tags ;
+    <div id="myNumberDiv">04061986</div>
+    
+  6 : have fun!
