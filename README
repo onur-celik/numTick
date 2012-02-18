@@ -17,7 +17,7 @@ usage :
   4 : settings ;
     <script>
       $('#myNumberDiv').numTick({
-        numbersUrl  : YOUR_NUMBER_SPRITE's_URL // default : 'http://onur.ws/numTic/img/sprite.png'
+        numbersUrl  : YOUR_NUMBER_SPRITE's_URL // default : 'http://onur.ws/numTick/img/sprite.png'
         width       : WIDTH_OF_YOUR_DIGIT, // default : 30
         height      : HEIGHT_OF_YOUR_DIGIT, // default : 30
         speed       : MILISECONDS, // default : 1000
