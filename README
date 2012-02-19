@@ -22,6 +22,7 @@ usage :
         height      : HEIGHT_OF_YOUR_DIGIT, // default : 30
         speed       : MILISECONDS, // default : 1000
         border      : BORDER_INFO, // default : '1px solid #ccc' CAN BE 'none'
+        easing      : EASING_NAME // default : 'easeInOutCubic' moreInfo: http://gsgd.co.uk/sandbox/jquery/easing/
       });
     <script>
     
