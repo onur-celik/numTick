@@ -9,9 +9,9 @@
 				numbersUrl	: 'http://onur.ws/numTick/img/sprite.png',
 				width  		: 30,
 				height 		: 30,
-				speed       : 2000,
-				border      : '1px solid #ccc',
-				easing      : 'easeInOutCubic'
+				speed       	: 2000,
+				border      	: '1px solid #ccc',
+				easing      	: 'easeInOutCubic'
 			}, settings);
             
 			// define the number ticker
